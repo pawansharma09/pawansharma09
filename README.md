@@ -25,11 +25,11 @@ B.Tech student specializing in Artificial Intelligence, I am deeply committed to
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darkx2003&show_icons=true&theme=radical" alt="Pawan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pawansharma09&show_icons=true&theme=radical" alt="Pawan's GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkx2003&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pawansharma09&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkx2003&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawansharma09&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
