@@ -46,7 +46,7 @@ B.Tech student specializing in Artificial Intelligence, I am deeply committed to
 
 - Portfolio: [pawansharma09.vercel.app](https://pawansharma09.vercel.app)
 - LinkedIn: [linkedin.com/in/pawansharma09](https://linkedin.com/in/pawansharma09)
-- GitHub: [github.com/darkx2003](https://github.com/darkx2003)
+- GitHub: [github.com/darkx2003](https://github.com/pawansharma09)
 - Email: [pawansharma91790@gmail.com](mailto:pawansharma91790@gmail.com)
 
 ---
